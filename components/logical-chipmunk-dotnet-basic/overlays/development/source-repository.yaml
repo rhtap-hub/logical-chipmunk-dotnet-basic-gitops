@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: logical-chipmunk-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-hub/logical-chipmunk-dotnet-basic
